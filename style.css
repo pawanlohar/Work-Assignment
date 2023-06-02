@@ -1,0 +1,75 @@
+body {
+    font-family: "Gotham A","Gotham B",Helvetica,Arial,sans-serif!important;
+    font-family: 'Rubik', sans-serif;
+     font-family: 'Source Sans Pro', sans-serif;
+}
+
+.ul {
+    font-family: 'Rubik', sans-serif;
+}
+ 
+
+.line {
+    border: solid .5px white;
+    height: 40px;
+    margin-left: 20px;
+
+}
+ 
+.bg-image {
+    background-image: url(home-hero-cs23_182669_1600x693.jpg);
+    height: 600px;
+    width:  min-content;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+  
+@media screen and (max-width: 757px){
+.font-34 h1 {
+        font-size: 40px;
+        margin-top: 30px;
+        margin-left: 20px;
+       
+    }
+    .font-34 h2 {
+        font-size: 40px;
+        margin-left: 50px;
+    }
+    .line1{
+        rotate: 90deg;
+         margin-left: auto;
+         margin-right: auto;
+         margin-bottom: 20px;
+    }
+    .font-34{
+        margin-left: 80px;
+        margin-top: -30px;
+    }
+    
+
+   
+} 
+.card {
+    width: 60%;
+    margin-top: 50px;
+    float: right;
+}
+ 
+ .main2{
+    margin-top: -49px;
+ }
+
+ @media (min-width: 1440px) {
+    .how-section1 {
+        margin: 20px auto !important;
+        max-width: 1440px !important;
+    }
+}
+  
+
+
+
+    
+   
